@@ -4,7 +4,7 @@
 ##  Description
 This project is a basic Clinic Booking System built using MySQL. It manages patient and doctor data, schedules appointments, and logs treatments.
 
-## 🛠 Features
+##  Features
 - Add and manage doctors and patients
 - Book appointments
 - Assign treatments to appointments
